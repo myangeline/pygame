@@ -1,6 +1,6 @@
 # _*_ coding:utf-8 _*_
 import pygame
-from spiritdemo.sunflower import SunFlower
+from spritedemo.sunflower import SunFlower
 
 __author__ = 'Administrator'
 
